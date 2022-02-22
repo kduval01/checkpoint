@@ -6,9 +6,9 @@
 5) What can we use to save a value for later use in our code? Provide an example. git init 
 6) What can I do to prevent certain files and directories from being tracked by git? gitignore
 7) What can be used in order to repeat some block of code? Provide 2 examples.
-8) When saving a value for later use what type of operator do we use?
-9) What's the key difference between git revert and git reset?
-10) What's the key difference between Python lists and tuples?
+8) When saving a value for later use what type of operator do we use? github
+9) What's the key difference between git revert and git reset? git revert is a safe method of undoing changes and reset changes for good
+10) What's the key difference between Python lists and tuples? you can not change values on tuple
 11) What can I do to know where I am within my file system?
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?

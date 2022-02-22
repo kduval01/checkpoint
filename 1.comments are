@@ -1,10 +1,10 @@
 1.1) What are comments? placing human readable descriptions inside of a computer programs detailing whatthe code is doing.
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines. On the pull request, click Files changed. Hover over the line of code where you'd like to add a comment, and click the blue comment icon. To add a comment on multiple lines, click and drag to select the range of lines, then click the blue comment icon. In the comment field, type your comment.
 
-3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
-4) Demonstrate how I can tell a Python program to display something in the command line.
-5) What can we use to save a value for later use in our code? Provide an example.
-6) What can I do to prevent certain files and directories from being tracked by git?
+3) If the name of a file is app.py what do we type in the command line to tell our computer to run it? cd app.py
+4) Demonstrate how I can tell a Python program to display something in the command line. pwd
+5) What can we use to save a value for later use in our code? Provide an example. git init 
+6) What can I do to prevent certain files and directories from being tracked by git? gitignore
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 8) When saving a value for later use what type of operator do we use?
 9) What's the key difference between git revert and git reset?
@@ -13,8 +13,8 @@
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
-15) What data type are True and False?
-16) What language does your computer understand?
+15) What data type are True and False? boolean
+16) What language does your computer understand? binary
 17) What do we need in order for your computer to make use of programming languages?
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 19) What does frontend / client side mean?

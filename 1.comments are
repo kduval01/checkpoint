@@ -11,8 +11,8 @@
 10) What's the key difference between Python lists and tuples? you can not change values on tuple
 11) What can I do to know where I am within my file system?
 12) Describe the anatomy of a Python dictionary and create one below.
-13) What type of values can be in a Python dictionary?
-14) What type of values can be in a Python list?
+13) What type of values can be in a Python dictionary? (["name: "Mary", "quest": seek the grail", "favorite_color": "blue"])
+14) What type of values can be in a Python list?[1,2,3,4] [milk,butter,eggs]
 15) What data type are True and False? boolean
 16) What language does your computer understand? binary
 17) What do we need in order for your computer to make use of programming languages?
